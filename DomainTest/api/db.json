@@ -1,0 +1,22 @@
+{
+    "domains": [
+        {
+            "id": 1,
+            "blocker": "Mimecast",
+            "domain": "mail.check.com",
+            "ip": "86.156.27.119"
+        },
+        {
+            "id": 2,
+            "blocker": "Cyren",
+            "domain": "mail1.xyz.com",
+            "ip": "86.156.27.122"
+        },
+        {
+            "id": 3,
+            "blocker": "Spam Haus",
+            "domain": "email.esb.com",
+            "ip": "32.191.27.119"
+        }
+    ]
+}

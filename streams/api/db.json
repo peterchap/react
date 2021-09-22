@@ -1,0 +1,27 @@
+{
+  "streams": [
+    {
+      "title": "my stream",
+      "description": "great film",
+      "id": 1
+    },
+    {
+      "title": "stream3",
+      "description": "Made by me",
+      "userId": null,
+      "id": 2
+    },
+    {
+      "title": "new stream",
+      "description": "everything is good",
+      "userId": "105953169298484902098",
+      "id": 3
+    },
+    {
+      "title": "test1",
+      "description": "sunday",
+      "userId": "105953169298484902098",
+      "id": 4
+    }
+  ]
+}
